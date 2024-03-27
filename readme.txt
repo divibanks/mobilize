@@ -177,5 +177,4 @@ Yes, Mobilize is regularly updated to ensure compatibility with the latest WordP
 == Upgrade Notice ==
 
 = 3.0.6 =
-* UPDATE: Updated plugin information
-* UPDATE: Removed adopt-me tag
+* Maintenance: Updated this README to include the new contributor, more FAQs. Also updated the image assets (banner and icon)
