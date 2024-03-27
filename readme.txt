@@ -173,3 +173,9 @@ Yes, Mobilize is regularly updated to ensure compatibility with the latest WordP
 
 = 1.1 =
 * Initial release
+
+== Upgrade Notice ==
+
+= 3.0.6 =
+* UPDATE: Updated plugin information
+* UPDATE: Removed adopt-me tag
