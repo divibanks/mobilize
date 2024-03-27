@@ -9,29 +9,29 @@ Stable tag: 3.0.6
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Mobilize adds a lightweight mobile menu to your site if the width is lower than a certain value.
+Mobilize adds a lightweight mobile menu to your site, if the width is lower than a certain value.
 
 == Description ==
 
-The **Mobilize** plugin adds a lightweight mobile menu to your site if the width is lower than a certain (configurable) value.
+The **Mobilize** plugin adds a lightweight mobile menu to your site, if the width is lower than a certain (configurable) value.
 
 Use the native behaviour (fixed top bar) or assign one of your existing menu items (a hamburger icon or a "Quick Jump" menu item).
 
 The menu works with the latest WordPress version and is fully compatible with the block editor (Gutenberg).
 
-**Features**
+= Features =
 
-🌟 Responsive Navigation Menu: Mobilize automatically transforms your website's navigation into a user-friendly mobile menu when the screen width falls below a specified threshold (default: 768px). This ensures optimal usability for your visitors on various devices.
+🌟 **Responsive Navigation Menu:** Mobilize automatically transforms your website's navigation into a user-friendly mobile menu when the screen width falls below a specified threshold (default: 768px). This ensures optimal usability for your visitors on various devices.
 
-🌟 Custom Menu Integration: Assign your existing WordPress menus or create a dedicated menu specifically for the mobile experience. Mobilize provides a separate menu location, allowing you to tailor the navigation structure for smaller screens.
+🌟 **Custom Menu Integration:** Assign your existing WordPress menus or create a dedicated menu specifically for the mobile experience. Mobilize provides a separate menu location, allowing you to tailor the navigation structure for smaller screens.
 
-🌟 Reusable Block Support: Enhance your mobile menu with additional content by easily inserting a reusable block from the WordPress block editor. This feature lets you add extra functionality, such as search forms, social media links, or any custom content you desire.
+🌟 **Reusable Block Support:** Enhance your mobile menu with additional content by easily inserting a reusable block from the WordPress block editor. This feature lets you add extra functionality, such as search forms, social media links, or any custom content you desire.
 
-🌟 Customizable Appearance: Personalize the look and feel of your mobile menu with various color options for the background, text, links, and accent elements. Choose from two pre-defined themes or create your own unique style.
+🌟 **Customizable Appearance:** Personalize the look and feel of your mobile menu with various color options for the background, text, links, and accent elements. Choose from two pre-defined themes or create your own unique style.
 
-🌟 Sliding Animation: Mobilize offers a smooth sliding animation when opening and closing the mobile menu, providing a polished user experience. You can even choose the direction (left or right) for the sliding animation.
+🌟 **Sliding Animation:** Mobilize offers a smooth sliding animation when opening and closing the mobile menu, providing a polished user experience. You can even choose the direction (left or right) for the sliding animation.
 
-🌟 Easy Setup and Configuration: With a user-friendly options page in the WordPress admin area, you can quickly set up and customize Mobilize to suit your website's branding and requirements.
+🌟 **Easy Setup and Configuration:** With a user-friendly options page in the WordPress admin area, you can quickly set up and customize Mobilize to suit your website's branding and requirements.
 
 **More menu themes coming soon!**
 
