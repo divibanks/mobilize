@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Mobilize
-Plugin URI: https://getbutterfly.com/wordpress-plugins/mobilize/
+Plugin URI: https://github.com/wpcorner/mobilize
 Description: Mobilize adds a swipe menu to any site, when the width is lower than 768.
 Version: 3.0.6
 Author: Patrick Lumumba
@@ -82,8 +82,8 @@ function mobilize_options() {
             <p style="font-size:14px">
                 <b>Featured plugins:</b>&#32;
                 🔥 <a href="https://wordpress.org/plugins/footnotes-made-easy/" target="_blank" rel="external noopener">Footnotes Made Easy</a> and&#32;
-                🚀 <a href="https://wordpress.org/plugins/search-engines-blocked-in-header/" target="_blank" rel="external noopener">Search Engines Blocked in Header</a>&#32;
-                For WordPress related content, check out <a href="https://wpcorner.co/">WP Corner blog</a>?
+                🚀 <a href="https://wordpress.org/plugins/search-engines-blocked-in-header/" target="_blank" rel="external noopener">Search Engines Blocked in Header</a>.&#32;
+                For WordPress related content, check out <a href="https://wpcorner.co/">WP Corner blog</a>.
             </p>
         </div>
 
